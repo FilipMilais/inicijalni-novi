@@ -1,0 +1,18 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ilustracija koda s upozorenjem kao prikaz zero-day ranjivosti">
+  <rect width="640" height="360" fill="#12213C"/>
+  <g fill="none" stroke="#2F6F63" stroke-width="1.5" opacity="0.6">
+    <path d="M60 90 L30 120 L60 150"/>
+    <path d="M140 90 L170 120 L140 150"/>
+    <line x1="100" y1="80" x2="90" y2="160"/>
+  </g>
+  <g fill="none" stroke="#2F6F63" stroke-width="1.5" opacity="0.4">
+    <path d="M60 220 L30 250 L60 280"/>
+    <path d="M140 220 L170 250 L140 280"/>
+    <line x1="100" y1="210" x2="90" y2="290"/>
+  </g>
+  <g transform="translate(360,90)">
+    <path d="M90 0 L180 160 H0 Z" fill="#1C2F52" stroke="#B9862E" stroke-width="3"/>
+    <rect x="84" y="55" width="12" height="55" fill="#E3C078"/>
+    <circle cx="90" cy="128" r="7" fill="#E3C078"/>
+  </g>
+</svg>

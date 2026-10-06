@@ -1,0 +1,15 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ilustracija udice unutar omotnice kao prikaz phishing napada">
+  <rect width="640" height="360" fill="#1C2F52"/>
+  <g transform="translate(200,90)">
+    <rect x="0" y="0" width="240" height="160" rx="6" fill="#EFF1EC"/>
+    <path d="M0 0 L120 100 L240 0" fill="none" stroke="#12213C" stroke-width="4"/>
+    <rect x="0" y="0" width="240" height="160" rx="6" fill="none" stroke="#12213C" stroke-width="4"/>
+  </g>
+  <g transform="translate(300,150)">
+    <path d="M20 0 C20 -30 60 -30 60 0 C60 24 40 24 40 46 C40 60 55 62 60 50"
+          fill="none" stroke="#B9862E" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <circle cx="500" cy="80" r="4" fill="#E3C078"/>
+  <circle cx="130" cy="270" r="4" fill="#2F6F63"/>
+  <circle cx="540" cy="270" r="3" fill="#E3C078"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Znak Sentinel Sigurnost">
+  <path d="M15 2 L27 6.5 V14.5 C27 21.5 22 26.5 15 28.5 C8 26.5 3 21.5 3 14.5 V6.5 Z"
+        fill="#1C2F52" stroke="#B9862E" stroke-width="1.4"/>
+  <path d="M11 15.2 L14 18.2 L20 11" fill="none" stroke="#E3C078" stroke-width="2.2"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

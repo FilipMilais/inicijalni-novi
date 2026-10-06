@@ -1,0 +1,19 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ilustracija zaključanih datoteka kao prikaz ransomware napada">
+  <rect width="640" height="360" fill="#12213C"/>
+  <g fill="none" stroke="#2F6F63" stroke-width="1" opacity="0.4">
+    <line x1="0" y1="60" x2="640" y2="60"/>
+    <line x1="0" y1="300" x2="640" y2="300"/>
+  </g>
+  <g transform="translate(270,110)">
+    <rect x="0" y="60" width="100" height="80" rx="8" fill="#1C2F52" stroke="#B9862E" stroke-width="3"/>
+    <path d="M20 60 V35 a30 30 0 0 1 60 0 V60" fill="none" stroke="#B9862E" stroke-width="8"/>
+    <circle cx="50" cy="100" r="9" fill="#E3C078"/>
+    <rect x="46" y="105" width="8" height="18" fill="#E3C078"/>
+  </g>
+  <g fill="#3A4E6E">
+    <rect x="60" y="230" width="70" height="10" rx="2"/>
+    <rect x="150" y="230" width="50" height="10" rx="2"/>
+    <rect x="450" y="230" width="70" height="10" rx="2"/>
+    <rect x="530" y="230" width="50" height="10" rx="2"/>
+  </g>
+</svg>

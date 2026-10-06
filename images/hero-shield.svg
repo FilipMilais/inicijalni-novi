@@ -1,0 +1,15 @@
+<svg width="360" height="360" viewBox="0 0 360 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ilustracija štita koji predstavlja digitalnu zaštitu">
+  <circle cx="180" cy="180" r="170" fill="#1C2F52"/>
+  <circle cx="180" cy="180" r="170" fill="none" stroke="#2F6F63" stroke-width="1" stroke-dasharray="2 6" opacity="0.5"/>
+  <g transform="translate(180,180)">
+    <path d="M0 -95 L78 -62 V18 C78 70 42 105 0 122 C-42 105 -78 70 -78 18 V-62 Z"
+          fill="#12213C" stroke="#B9862E" stroke-width="2.5"/>
+    <path d="M-30 4 L-8 28 L34 -22" fill="none" stroke="#E3C078" stroke-width="7"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="0" cy="0" r="118" fill="none" stroke="#4B6E8C" stroke-width="1" opacity="0.5"/>
+    <circle cx="0" cy="0" r="138" fill="none" stroke="#4B6E8C" stroke-width="1" opacity="0.3"/>
+    <circle cx="118" cy="-18" r="4" fill="#E3C078"/>
+    <circle cx="-128" cy="30" r="3" fill="#2F6F63"/>
+    <circle cx="90" cy="110" r="3" fill="#2F6F63"/>
+  </g>
+</svg>
